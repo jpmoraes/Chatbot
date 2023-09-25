@@ -15,7 +15,7 @@ perguntas_respostas = {
     5: "Tchau! Tenha um bom dia!"
 }
 
-Cumprimento = ["Olá", "oi", "e ai"," qual foi","fala"]
+Cumprimento = ["olá", "oi", "e ai"," qual foi","fala", "ola"]
 
 
 app = Flask(__name__)
